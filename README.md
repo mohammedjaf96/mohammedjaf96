@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Mohammed E. Al-Jaf</h3>
+<h3 align="left">Mohammed E. Al-Jaf</h3>
 
 ###
 
